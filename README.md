@@ -47,18 +47,19 @@
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1002/1*vGoxefPo4asUVmNL1VpEig.png" alt="travis" width="40" height="40"/> </a> <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.slack.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a> <a href="https://trello.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a> <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a> 
 
 ---
+  
 **IDE and Editor Tools:**
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 </p> 
 
-
 ***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas9704&show_icons=true&locale=en&layout=compact" alt="lucas9704" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas9704&show_icons=true&locale=en&layout=compact" alt="lucas9704" /></p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas9704&show_icons=true&locale=en" alt="lucas9704" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas9704&show_icons=true&locale=en" alt="lucas9704" /></p>
 
 ***
 
