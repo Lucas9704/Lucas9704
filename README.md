@@ -1,5 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*XR3rTO1O_RM69jFDcez7cw.gif)]()
-
 <h1 align="center">Hi 👋, I'm Lucas Canteros</h1>
 <h3 align="center">A multidisciplinary Front-End developer from Argentina</h3>
 
